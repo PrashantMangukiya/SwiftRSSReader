@@ -46,7 +46,7 @@ let RSS_FEED_URL = "http://www.prashantmangukiya.com/feed/"
 
 **iPhone 4s**
 
-![ScreenShot iPhone4](../master/Screenshots/main-1t.png) &nbsp;&nbsp;
+![ScreenShot iPhone4](../master/Screenshots/main-1t.png) 
 ![ScreenShot iPhone4](../master/Screenshots/main-2t.png)
 
 **iPad**
